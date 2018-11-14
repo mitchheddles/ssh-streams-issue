@@ -1,0 +1,7 @@
+# Files
+.DS_Store
+*.log
+!deployment.log
+
+# Folders
+node_modules

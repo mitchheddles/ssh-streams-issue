@@ -1,0 +1,16 @@
+{
+  "name": "ssh-streams-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitch Heddles <mitchell.heddles@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "mysql": "^2.16.0",
+    "tunnel-ssh": "https://github.com/mitchheddles/tunnel-ssh.git"
+  }
+}
